@@ -2,9 +2,6 @@
 
 - 🔭 Hoje trabalho como assistente de Informática
 - 🌱 Estudando HTML, CSS e JavaScript
-- 😄 Pronouns: Ele/dele
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=bernardocarvalho21&show_icons=true&theme=dark)
 
 <div style="display: inline_block"><br>
 <img align="center" alt="Bernardo-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
