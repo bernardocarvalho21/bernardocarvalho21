@@ -1,4 +1,4 @@
-### Olá! Eu sou o Bernardo Carvalho👋
+### Olá! Eu sou o Bernardo Carvalho
 
 - 🔭 Hoje trabalho como assistente de Informática
 - 🌱 Estudando HTML, CSS e JavaScript
@@ -16,7 +16,6 @@
 <div> 
   
   <a href="https://instagram.com/bernardocarvalho21" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
- 	<a href="https://discord.gg/bernardocarvalho21" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
   <a href="https://linkedin.com/in/bernardo-carvalho-a65081b8" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   <a href="mailto:bernardocarvalho21@hotmail.com"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target="_blank"></a>
 </div>
