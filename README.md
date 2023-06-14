@@ -1,7 +1,7 @@
 ### Olá! Eu sou o Bernardo Carvalho
 
 - 🔭 Hoje trabalho como assistente de Informática
-- 🌱 Estudando HTML, CSS e JavaScript
+- 🌱 Estudando JavaScript, CSS e HTML. 
 
 <div style="display: inline_block"><br>
 <img align="center" alt="Bernardo-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
